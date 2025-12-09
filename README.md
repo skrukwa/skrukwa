@@ -1,4 +1,12 @@
+![hero](https://raw.githubusercontent.com/skrukwa/skrukwa/main/assets/__hero.png)
+
 <h1 align="center">Hi, I'm Evan Skrukwa</h1>
+
+Aside from coding, I like:
+- Snowboarding
+- Golf
+- Airplanes
+- Gym / Meal prep
 
 <br />
 
