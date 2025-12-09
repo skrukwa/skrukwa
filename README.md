@@ -1,20 +1,21 @@
-# Hi there 👋
+<h1 align="center">Hi, I'm Evan Skrukwa</h1>
 
-Welcome to my GitHub! I'm glad you made it.
+<br />
 
 Check out some of the repos I am working on, specifically:
 - [EVSim](https://github.com/skrukwa/evsim)
 - [Informapple](https://github.com/skrukwa/informapple)
 
+<br />
+
 Otherwise, please enjoy my completely **subjective** tier list of popular[^1] programming languages below!
 [^1]: Roughly based on the IEEE Spectrum Top Programming Languages report.
 
-> [!CAUTION]
-> My choices here are only for entertainment; please take them with low expectations 😄
+<br />
 
-[Jump to rationale](#rationale)
+## My Programming Languages Tier List
 
-## Tier List
+<sub><a href="#rationale">Jump to rationale</a></sub>
 
 | <img src="https://raw.githubusercontent.com/skrukwa/skrukwa/main/assets/_s.png" height="96"> | <img src="https://raw.githubusercontent.com/skrukwa/skrukwa/main/assets/c.png" height="96"> <img src="https://raw.githubusercontent.com/skrukwa/skrukwa/main/assets/pg.png" height="96"> |
 | :-- | :-- |
@@ -24,12 +25,14 @@ Otherwise, please enjoy my completely **subjective** tier list of popular[^1] pr
 | <img src="https://raw.githubusercontent.com/skrukwa/skrukwa/main/assets/_d.png" height="96"> | <img src="https://raw.githubusercontent.com/skrukwa/skrukwa/main/assets/js.png" height="96"> |
 | <img src="https://raw.githubusercontent.com/skrukwa/skrukwa/main/assets/_f.png" height="96"> | <img src="https://raw.githubusercontent.com/skrukwa/skrukwa/main/assets/r.png" height="96"> |
 
+<br />
+
 ## Rationale
 
 | Language | Thoughts |
 | --- | --- |
 | C          | The gold standard of systems programming. Small, portable, and timeless. Gives you just enough abstraction to write serious software, but not enough to forget you're talking to the machine. |
-| SQL        | 	Rock-solid and ubiquitous. Comes in many dialects (PostgreSQL, MySQL, SQLite, etc) although it would be nice if they all implemented the ISO/IEC standard as a baseline. And by the way, its “ess-cue-el", not “sequel”! |
+| SQL        | Static and strongly typed schemas. Technically Turing Complete... if you will. Comes in many dialects (PostgreSQL, MySQL, SQLite, etc.) although it would be nice if they all implemented the ISO/IEC standard as a baseline. And by the way, unless you are refering to the Structured English Query Language of 1974, it's pronounced S-Q-L, not "sequel"! |
 | Go         | 	A nearly perfect middle ground between C and Python with beautiful concurrency. The type system is almost perfect (implicit interfaces are a counter example), and the lack of bloat is refreshing (missing hash sets is a counter example). |
 | C++        | Not as elegant as C, but possibly more functional for the average project where performance and a low(ish) level control is required. |
 | Bash       | Tried and true. For what it is (a UNIX scripting language), it does its job well. Syntax can be clunky and dynamic scope quirks can come up. |
@@ -42,12 +45,10 @@ Otherwise, please enjoy my completely **subjective** tier list of popular[^1] pr
 | JavaScript | The only reason you would use this is if you are too lazy to set up TypeScript. |
 | R          | Statistical duct tape. Great at doing exactly what it's meant for, and borderline unusable outside of that. |
 
-
 > [!NOTE]
 > As with others, Rust is a language that I have not had a chance to meaningfully explore but that piques my interest, especially given my love for C and the ongoing Rust for Linux discussions.
 > Expect an update on this tier list in the near future.
 
-
-
+<h1></h1>
 
 That's all from me. Feel free to get in touch with me via the LinkedIn link on the sidebar!
