@@ -6,7 +6,8 @@ Aside from coding, I like:
 - Snowboarding
 - Golf
 - Airplanes
-- Gym / Meal prep
+- Gym / meal prep
+- Cars
 
 <br />
 
